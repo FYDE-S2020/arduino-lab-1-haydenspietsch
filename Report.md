@@ -70,4 +70,4 @@ Procedure B, UART:
 ![Put path to your image here ->](img/lab1pic3.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/lab1pic5.png)
