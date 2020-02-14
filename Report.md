@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/Pic 1.png)
+![Put path to your image here ->](img/lab1pic1.png)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
