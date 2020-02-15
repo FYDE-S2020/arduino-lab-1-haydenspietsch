@@ -1,73 +1,72 @@
-Name:
+Name: Hayden Pietsch
 
-EID:
+EID: HSP528
 
-Team Number:
+Team Number: 14
 
 ## Questions
 
 1. Why does your program need a setup and a loop?
 
-    your answer here
+    To define variables in setup, and run program in loop
 
 2. What is the downside to putting all your code in a loop?
 
-    your answer here
-
+    It will redefine variables and run all code each time, better to call functions
 3. Why does your code need to be compiled?
 
-    your answer here
+    To convert code from High level language to machine code
 
 4. When lowering the frequency in procedure A, step 4, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
-    your answer here
+   Your eye can only see a certain frequency until it looks like its always off or on. increase the duty cycle.
 
 5. Why do you need to connect the logic analyzer ground to the ESP32 ground?
 
-    your answer here
+   Voltage is relative, need this so it won't float
 
 6. What is the difference between synchronous and asynchronous communication?
-
-    your answer here
+    synchronous is on a clock, asynch is not
+    
 
 7. Profile of UART: Sent X bytes in Y time 
 
-    your answer here
+    6bytes in .514ms
 
 8. Profile of SPI: Sent X bytes in Y time
 
-    your answer here
+  2bytes in 35.5 microseconds
 
 9. Why is SPI so much faster than UART?
 
-    your answer here
+   SPI is Synchronous
 
 10. list one pro and one con of UART
 
-    your answer here
+    pro: less wires Con: slower
 
 11. list one pro and one con of SPI
 
-    your answer here
+   Pro: faster Con: more wires
 
 12. list one pro and one con of I2C
 
-    your answer here
+   pro: simple addressing Con: complex hardware
 
 13. Why does I2C need external resistors to work?
 
-    your answer here
+    lines need pullup or pull down resistors
 
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/lab1pic1.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/lab1pic2.png)
 
 Procedure B, UART:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/lab1pic3.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/lab1pic5.png)
